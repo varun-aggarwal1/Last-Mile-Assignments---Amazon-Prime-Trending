@@ -29,7 +29,7 @@ const App = (props) => {
             setSlide(0);
           }}
         >
-          Reset
+          Restart
         </button>
         <button
           data-testid="button-prev"
